@@ -20,5 +20,11 @@ git push origin main
 
 #in linux for direcotyry we use 
 rm  -r directory name 
+_____________________________________________________________
+checkout is the command to create another branch 
+
+merge conflicts:
+
+resolve conflicts;
 
 
