@@ -1,0 +1,24 @@
+#if iwe remobe or chnage the name of repsotiroy name
+git remote set-url origin git@ github.com:bhat-varsha/DEVOPS.git
+
+#complwtwly reset the connections
+git remote remove origin
+git remove add origin git@ github.com:bhat-varsha/DEVOPS.git
+git push -u origin
+
+#if we want to completely remove everythin 
+Remove-Item -Recurse -Force .git
+#recurse keep on doing untill nothing works
+#then this all steps 
+git init 
+git add . 
+git remote -v
+git remote add origin https link
+git branch -M main
+git push origin main
+
+
+#in linux for direcotyry we use 
+rm  -r directory name 
+
+
